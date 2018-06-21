@@ -4,3 +4,6 @@
 [submodule "terminal/bot/tic-tac-toe/go"]
 	path = terminal/bot/tic-tac-toe/go
 	url = https://github.com/PGo-Projects/tic-tac-toe.git
+[submodule "terminal/bot/connect-four/rust"]
+	path = terminal/bot/connect-four/rust
+	url = https://github.com/PRust-Projects/connect-four.git
