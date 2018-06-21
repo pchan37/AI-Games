@@ -1,0 +1,6 @@
+[submodule "terminal/bot/tic-tac-toe/rust"]
+	path = terminal/bot/tic-tac-toe/rust
+	url = https://github.com/PRust-Projects/tic-tac-toe.git
+[submodule "terminal/bot/tic-tac-toe/go"]
+	path = terminal/bot/tic-tac-toe/go
+	url = https://github.com/PGo-Projects/tic-tac-toe.git
