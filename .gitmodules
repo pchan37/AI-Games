@@ -7,3 +7,6 @@
 [submodule "terminal/bot/connect-four/rust"]
 	path = terminal/bot/connect-four/rust
 	url = https://github.com/PRust-Projects/connect-four.git
+[submodule "gui/bot/tic-tac-toe/rust"]
+	path = gui/bot/tic-tac-toe/rust
+	url = https://github.com/PRust-Projects/tic-tac-toe-gui.git
